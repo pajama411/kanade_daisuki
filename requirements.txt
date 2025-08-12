@@ -2,7 +2,3 @@ streamlit
 pandas
 numpy
 matplotlib
-plotly
-tenserflow
-json
-os
